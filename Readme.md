@@ -2,8 +2,8 @@
 
 ##Parts
 
-| Image         | Part 	 			 | Link          |
-|:------------- |:---------------:| -------------:|
+| Image   | Part 	 			 | Link          |
+|:------- |:---------------:| -------------:|
 | ![Arduino](http://www.funduinoshop.com/WebRoot/Store14/Shops/78096195/5468/C14A/A3BE/1A54/4716/C0A8/2ABB/2807/Nano.png)  | Arduino Nano | [buy](http://www.funduinoshop.com/epages/78096195.sf/de_DE/?ObjectPath=/Shops/78096195/Products/02-03 "Buy") |
 | ![Display](http://www.funduinoshop.com/WebRoot/Store14/Shops/78096195/562F/430C/46F6/BE69/79A3/C0A8/2AB8/79D3/I2C.png)  | LCD Display | [buy](http://www.funduinoshop.com/epages/78096195.sf/de_DE/?ObjectPath=/Shops/78096195/Products/03-25 "Buy") / [better one](http://www.funduinoshop.com/epages/78096195.sf/de_DE/?ObjectPath=/Shops/78096195/Products/03-26 "Buy") |
 | ![Piezo Speaker](http://www.funduinoshop.com/WebRoot/Store14/Shops/78096195/55FA/8B34/2E4A/EADD/2D0F/C0A8/2BB8/F6D5/Piezo.png)  | Piezo Speaker | [buy](http://www.funduinoshop.com/epages/78096195.sf/de_DE/?ObjectPath=/Shops/78096195/Products/03-17 "Buy") |
@@ -16,4 +16,6 @@
 | ![Waterpump](http://www.funduinoshop.com/WebRoot/Store14/Shops/78096195/55FA/88C2/36AF/C841/BBCC/C0A8/2AB8/5BC0/Breadboard.png)  | Wires | [buy](http://www.funduinoshop.com/epages/78096195.sf/de_DE/?ObjectPath=/Shops/78096195/Products/03-24 "Buy") |
 
 ## How to wire it up
+
+![Wirering](https://github.com/JohannesHoffmann/wateringmaschine/blob/master/wiering_watermashine_Steckplatine.png?raw=true)
 
