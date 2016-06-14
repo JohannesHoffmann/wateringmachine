@@ -17,5 +17,5 @@
 
 ## How to wire it up
 
-![Wirering](https://github.com/JohannesHoffmann/wateringmachine/blob/master/wiering_wateringmachine?raw=true)
+![Wirering](https://raw.githubusercontent.com/JohannesHoffmann/wateringmachine/master/wiring_wateringmachine.png)
 
