@@ -1,4 +1,4 @@
-# Watering Maschine
+# Wateringmachine
 
 ##Parts
 
@@ -17,5 +17,5 @@
 
 ## How to wire it up
 
-![Wirering](https://github.com/JohannesHoffmann/wateringmaschine/blob/master/wiering_watermashine_Steckplatine.png?raw=true)
+![Wirering](https://github.com/JohannesHoffmann/wateringmachine/blob/master/wiering_wateringmachine?raw=true)
 
